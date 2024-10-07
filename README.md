@@ -1,4 +1,6 @@
-# Bem-vindo! Neste repositório, você encontrará um jogo divertido baseado no famoso filme "Detona Ralph". Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
+# Bem-vindo! 
+
+Neste repositório, você encontrará um jogo divertido baseado no famoso filme "Detona Ralph". Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
 
 ## Tecnologias Utilizadas
 
@@ -22,4 +24,4 @@ Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar n
 Créditos
 Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
 
-Divirta-se jogando o JSGame Detona Ralph enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original aqui(https://github.com/digitalinnovationone/jsgame-detona-ralph) e deixar uma ⭐️ se você gostou do projeto!
+Divirta-se jogando o JSGame Detona Ralph enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/jsgame-detona-ralph) e deixar uma ⭐️ se você gostou do projeto!
